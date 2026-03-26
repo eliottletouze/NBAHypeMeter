@@ -45,6 +45,7 @@ Scanne le QR code avec **Expo Go** (iOS/Android) ou lance sur simulateur :
 ```bash
 npx expo start --ios       # Simulateur iOS
 npx expo start --android   # Émulateur Android
+npx expo start --web       # Navigateur web
 ```
 
 ## Configuration API (optionnel)
